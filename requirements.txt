@@ -1,0 +1,16 @@
+fastapi
+uvicorn
+requests
+toml
+markdownify
+pdfminer.six
+playwright
+pytest-playwright
+anthropic
+openai
+tiktoken
+groq
+ollama
+colorlog
+Jinja2
+duckduckgo_search
